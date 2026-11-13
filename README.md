@@ -1,4 +1,4 @@
-# Siri Assistant for Windows (iOS 27 Style)   <img width="209" height="238" alt="icon" src="https://github.com/user-attachments/assets/2cafb172-2217-42e4-b037-e4f416f7650a" />
+# Siri Assistant for Windows (iOS 27 Style)   <img width="53" height="60" alt="icon" src="https://github.com/user-attachments/assets/be245136-1dae-47b0-8c40-66a35ad799f0" />
 
 <img width="482" height="752" alt="Screenshot 2026-11-14 004741" src="https://github.com/user-attachments/assets/fa8019d1-5e68-40f5-ad02-2dc9259d1331" />
 <img width="482" height="752" alt="Screenshot 2026-11-14 004751" src="https://github.com/user-attachments/assets/6d2dd292-a926-4268-a5bb-09d82b6f8f4f" />
