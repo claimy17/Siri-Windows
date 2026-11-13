@@ -1,0 +1,12 @@
+# Compiled binaries and temporary build files
+*.exe
+*.o
+*.res
+*.obj
+app.rc
+
+# Python cache and local assistant memory
+__pycache__/
+*.pyc
+*.pyo
+.siri_memory
