@@ -9,7 +9,7 @@ A lightweight, offline Siri-inspired voice and text assistant for **Windows 10 a
 
 ---
 
-## ✨ Features
+## Features
 
 - **iOS 27 Inspired Glassmorphism UI**:
   - Translucent rounded window with live animated Siri soundwaves (`WaveAnimation`).
@@ -28,7 +28,7 @@ A lightweight, offline Siri-inspired voice and text assistant for **Windows 10 a
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **Operating System**: Windows 10 or Windows 11
 - **Python 3**: Automatically installed by `Siri-Setup.exe` via Windows Package Manager (`winget`) if not already present on your PC.
